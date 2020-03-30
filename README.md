@@ -9,8 +9,8 @@ Paint any picture by mouse.<br>
 
 ## Personal learnings:
 
-This project 'React-site' shows the skills of working with the React library.
-Each project page contains different components that show React JS skills.
+This program helped me understand how to work with the <Canvas> component in JavaScript.
+This program is a step towards ThreeJS.
 
 `Develop by: Alex Shkarin`
 
