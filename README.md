@@ -1,7 +1,7 @@
 ## Easy programm - CanvasPaint
 Paint any picture by mouse.<br>
 
-##Instructions:
+## Instructions:
 
 - key 'S' - for save;
 - key 'C' - for clear;
